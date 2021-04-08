@@ -6,3 +6,8 @@
 
 
 软考[报名地址](https://bm.ruankao.org.cn/sign/welcome)
+
+
+## 章节
+
+- 第 1 章：[计算机基础、体系、3性基础](chapter/RK-1.md)
